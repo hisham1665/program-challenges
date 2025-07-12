@@ -1,4 +1,6 @@
-length = int(input("Enter the length: "))
+#this is a program to run two sum problem of the leet code
+
+length = int(input("Enter the length: ")) 
 a = []
 
 print("Enter the elements:")
