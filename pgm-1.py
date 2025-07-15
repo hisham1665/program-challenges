@@ -1,3 +1,10 @@
+#this is a program to run a pattern giveen below:-
+#input n = 4
+# output : A
+#          b C
+#          D e F
+#          g H i J
+
 n = int(input("Enter n \n"))
 j=0
 for i in range(n): 
