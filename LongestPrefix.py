@@ -1,3 +1,6 @@
+#this is used to find the longest common prefix in a list
+#leetcode problem 14
+
 count = int(input("Enter the number of words: "))
 strs = []
 for i in range(count):
