@@ -1,3 +1,4 @@
+#this is a program to find the valid parathesis problem in leetcode
 s = input("enter the srring")
 stack=[]
 for i in range(len(s)):
