@@ -1,3 +1,5 @@
+# this is the Search Insert Postion Problem in Leetcode
+# leet code problem 35
 def searchInsert(nums , target):
   left = 0
   right = len(nums) - 1
