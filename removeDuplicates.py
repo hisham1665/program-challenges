@@ -15,3 +15,10 @@ class Solution(object):
             else:
                 current = current.next
         return head
+
+
+# to remove the duplicates in a list is given below:
+# a = input("enter the array ")
+# b = [int(x) for x in a.split()]
+# c = list(set(b))
+# print(c)
