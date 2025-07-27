@@ -1,3 +1,5 @@
+#This is a leet code problem for find valid palindrome or not
+#leetcode problem no : 125
 def isPalindrome(s):
         filtered = ""
         for ch in s:
