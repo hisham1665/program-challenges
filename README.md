@@ -1,4 +1,4 @@
-# 🧠 LeetCode Problms & Tricky Programming Challenges
+# 🧠 LeetCode Problems & Tricky Programming Challenges
 
 Welcome to my personal repository where I regularly push solutions to **LeetCode problems** and other **tricky algorithmic/programming questions**. This repo is my practice ground and reference hub for improving problem-solving skills and preparing for coding interviews.
 
