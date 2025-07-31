@@ -1,3 +1,4 @@
+#this is a leetcode problem of no : 16 (majority elements)
 class Solution(object):
     def majorityElement(self, nums):
         count = 0
