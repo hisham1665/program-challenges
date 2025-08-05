@@ -1,3 +1,5 @@
+# leetcode problem 234 
+# use Two Pointer algorithm to check for palindrome
 # Definition for singly-linked list.
 # class ListNode(object):
 #     def __init__(self, val=0, next=None):
