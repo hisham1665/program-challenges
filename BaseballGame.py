@@ -1,3 +1,4 @@
+#leet code no 682
 class Solution:
     def calPoints(self, operations: List[str]) -> int:
         record = []
