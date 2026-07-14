@@ -1,3 +1,4 @@
+#leet code problem no 2073
 class Solution:
     def timeRequiredToBuy(self, tickets: List[int], k: int) -> int:
         i = 0
