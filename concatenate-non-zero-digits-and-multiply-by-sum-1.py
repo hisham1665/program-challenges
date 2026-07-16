@@ -1,3 +1,4 @@
+# leetcode no 3754
 class Solution(object):
     def sumAndMultiply(self, n):
         num = n
