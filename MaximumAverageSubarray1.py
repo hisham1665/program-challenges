@@ -1,3 +1,4 @@
+#leetcode problem no 643
 class Solution(object):
     def findMaxAverage(self, nums, k):
         current_sum = sum(nums[:k])
