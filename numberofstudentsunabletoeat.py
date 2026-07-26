@@ -1,3 +1,4 @@
+#leetcode number 1700
 class Solution:
     def countStudents(self, students: List[int], sandwiches: List[int]) -> int:
         count0 = students.count(0)
