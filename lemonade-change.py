@@ -1,3 +1,4 @@
+# leetcode no 860
 class Solution:
     def lemonadeChange(self, bills: list[int]) -> bool:
         hmap = {'5' : 0 , '10' : 0 , '20' : 0}
