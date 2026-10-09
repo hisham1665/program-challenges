@@ -1,3 +1,4 @@
+#leetcode question No . 2390
 class Solution:
     def removeStars(self, s: str) -> str:
         stack = []
